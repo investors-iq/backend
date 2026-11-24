@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+*.xlsx
+*.xlsm
+.env
+.env.*
+*.pem
+*.key
+*service-account*.json
